@@ -1,4 +1,10 @@
 <<<<<<< HEAD
+node_modules
+dist
+.vite
+.env
+=======
+<<<<<<< HEAD
 .DS_Store
 node_modules
 dist
@@ -51,3 +57,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 >>>>>>> e4ab8c5978f4a575272aea48cf85e6fe1295af23
+>>>>>>> origin/main
